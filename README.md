@@ -2,4 +2,6 @@
 
 # It replaces the names of the players with vocabularies
 
-[img]![alt here is a screenshot of the app I have made](https://i.ibb.co/wQVp23X/Screenshot-2023-12-11-at-22-22-13-Watch-the-best-top-rated-games-of-lichess-org.png)
+![alt here is a screenshot of the app I have made](https://i.ibb.co/wQVp23X/Screenshot-2023-12-11-at-22-22-13-Watch-the-best-top-rated-games-of-lichess-org.png)
+
+No player names. Just some additional things to learn during a match, while waiting for them.
